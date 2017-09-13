@@ -18,7 +18,7 @@ Running the application:
 
 Using the application:
 ---------------------
-1. You can access the Swagger UI page at: http://localhost:8090/swagger-ui.html
+1. You can access the Swagger UI page at: http://localhost:8080/swagger-ui.html
 2. You can use the Swagger UI page to view and perform all the operations.
 3. Spring Boot Actuator has been included and it provides application related information. For eg:
     http://localhost:8080/actuator
